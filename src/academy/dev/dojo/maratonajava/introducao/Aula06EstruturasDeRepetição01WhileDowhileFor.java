@@ -1,6 +1,6 @@
 package academy.dev.dojo.maratonajava.introducao;
 
-public class Aula06EstruturasDeRepetição01 {
+public class Aula06EstruturasDeRepetição01WhileDowhileFor {
     public static void main(String[] args) {
         // while, do while, for
         int count = 0;

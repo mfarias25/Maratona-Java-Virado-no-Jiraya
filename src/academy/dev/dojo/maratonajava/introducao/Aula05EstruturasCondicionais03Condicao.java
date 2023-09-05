@@ -1,6 +1,6 @@
 package academy.dev.dojo.maratonajava.introducao;
 
-public class Aula05EstruturasCondicionais03 {
+public class Aula05EstruturasCondicionais03Condicao {
     public static void main(String[] args) {
         double salario = 3000;
         String mensagemDoar = "Eu vou doar 1000 pro DevDojo";

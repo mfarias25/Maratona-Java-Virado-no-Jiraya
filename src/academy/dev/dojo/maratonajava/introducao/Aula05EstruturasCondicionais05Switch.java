@@ -1,6 +1,6 @@
 package academy.dev.dojo.maratonajava.introducao;
 
-public class Aula05EstruturasCondicionais05 {
+public class Aula05EstruturasCondicionais05Switch {
     public static void main(String[] args) {
         byte dia = 5;
 
@@ -27,6 +27,25 @@ public class Aula05EstruturasCondicionais05 {
             case 7:
                 System.out.println("Sab");
                 break;
+            default:
+                System.out.println("Opcao invalida!");
+                break;
         }
+
+        char sexo = 'M';
+
+        switch (sexo) {
+            case 'M':
+                System.out.println("Homem");
+                break;
+            case 'F':
+                System.out.println("Mulher");
+                break;
+            default:
+                System.out.println("Opcao invalida!");
+                break;
+        }
+
+
     }
 }
