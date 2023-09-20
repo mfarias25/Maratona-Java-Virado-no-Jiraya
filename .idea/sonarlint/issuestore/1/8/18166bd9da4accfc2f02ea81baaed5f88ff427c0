@@ -1,0 +1,10 @@
+
+Y
+java:S1854"<Remove this useless assignment to local variable "numeros2".(ğŒÛô8ªôÃ¼¥1
+X
+java:S1854";Remove this useless assignment to local variable "numeros".(õ¤ø¥8ªôÃ¼¥1
+I
+java:S1481",Remove this unused "numeros" local variable.(õ¤ø¥8«ôÃ¼¥1
+J
+java:S1481"-Remove this unused "numeros2" local variable.(ğŒÛô8«ôÃ¼¥1
+X	java:S125	"<This block of commented-out lines of code should be removed.(çôŒÍ8ö×Ì¼¥1

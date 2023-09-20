@@ -1,0 +1,26 @@
+
+Y
+java:S1854A"<Remove this useless assignment to local variable "contador".(‰­”ì8Ï¨«½¤1
+L	java:S106"+Replace this use of System.out by a logger.(“¦ÿüúÿÿÿÿ8Öùô£¤1
+G	java:S106"+Replace this use of System.out by a logger.(¤öü‡8Öùô£¤1
+G	java:S106"+Replace this use of System.out by a logger.(¥¿ÜÛ8×ùô£¤1
+G	java:S106"+Replace this use of System.out by a logger.(Í‰¾Í8×ùô£¤1
+L	java:S106"+Replace this use of System.out by a logger.(ú¡ôİøÿÿÿÿ8×ùô£¤1
+L	java:S106"+Replace this use of System.out by a logger.(‚¦îúÿÿÿÿ8×ùô£¤1
+G	java:S106"+Replace this use of System.out by a logger.(œ²Ë8Øùô£¤1
+L	java:S106"+Replace this use of System.out by a logger.(’ÔÜ…úÿÿÿÿ8Øùô£¤1
+L	java:S106"+Replace this use of System.out by a logger.(Û‡ÑÉÿÿÿÿÿ8Øùô£¤1
+L	java:S106"+Replace this use of System.out by a logger.(ñ¤·şÿÿÿÿ8Ùùô£¤1
+L	java:S106"+Replace this use of System.out by a logger.(ûÇ€±úÿÿÿÿ8Ùùô£¤1
+X	java:S125""<This block of commented-out lines of code should be removed.(ÂâÜë8Ùùô£¤1
+L	java:S106)"+Replace this use of System.out by a logger.(õ¥‚¶ÿÿÿÿÿ8Ùùô£¤1
+L	java:S106*"+Replace this use of System.out by a logger.(ï¢ñùÿÿÿÿ8Ùùô£¤1
+G	java:S1062"+Replace this use of System.out by a logger.(Ñ”Èü8Ùùô£¤1
+X	java:S1257"<This block of commented-out lines of code should be removed.(Ó×íÍ8Úùô£¤1
+G	java:S106<"+Replace this use of System.out by a logger.(õ¦Ë´8Úùô£¤1
+O
+java:S1481?"-Remove this unused "contador" local variable.(¸¼¾ÿøÿÿÿÿ8öö£¤1
+]	java:S125B"<This block of commented-out lines of code should be removed.(Ä£¦şşÿÿÿÿ8á¨«½¤1
+L	java:S106G"+Replace this use of System.out by a logger.(÷æö…øÿÿÿÿ8Úùô£¤1
+L	java:S106H"+Replace this use of System.out by a logger.(Ëç¢ûüÿÿÿÿ8Ü¶ù£¤1
+L	java:S106I"+Replace this use of System.out by a logger.(ş¦Ü‹ûÿÿÿÿ8ØÍú£¤1
