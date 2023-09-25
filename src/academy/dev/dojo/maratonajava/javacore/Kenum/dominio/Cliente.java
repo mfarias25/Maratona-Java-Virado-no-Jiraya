@@ -1,9 +1,7 @@
 package academy.dev.dojo.maratonajava.javacore.Kenum.dominio;
 
 public class Cliente {
-    public enum TipoPagamento{
-        Debito, Credito
-    }
+
     private String nome;
     private TipoCliente tipoCliente;
     private TipoPagamento tipoPagamento;
