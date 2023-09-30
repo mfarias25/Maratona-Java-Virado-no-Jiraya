@@ -1,8 +1,8 @@
-package academy.dev.dojo.maratonajava.Minterfaces.test;
+package academy.dev.dojo.maratonajava.javacore.Minterfaces.test;
 
-import academy.dev.dojo.maratonajava.Minterfaces.dominio.DataLoader;
-import academy.dev.dojo.maratonajava.Minterfaces.dominio.DatabaseLoader;
-import academy.dev.dojo.maratonajava.Minterfaces.dominio.FileLoader;
+import academy.dev.dojo.maratonajava.javacore.Minterfaces.dominio.DataLoader;
+import academy.dev.dojo.maratonajava.javacore.Minterfaces.dominio.DatabaseLoader;
+import academy.dev.dojo.maratonajava.javacore.Minterfaces.dominio.FileLoader;
 
 public class DataLoaderTest01 {
     public static void main(String[] args) {
