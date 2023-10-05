@@ -1,19 +1,21 @@
 package academy.dev.dojo.maratonajava.javacore.Oexception.runtime.test;
 
+import java.io.File;
+import java.io.IOException;
+
 public class RuntimeExceptionTest02 {
-    public static void main(String[] args) {
-        try {
-            divisao(1, 0);
-        }catch (RuntimeException e) {
-            e.printStackTrace();
-        }
-        System.out.println("Codigo finalizado");
+    public static void main(String[] args) throws IOException{
+        criarNovoarquivo();
     }
 
-    private static int divisao (int a, int b) throws IllegalArgumentException{
-        if (b == 0) {
-            throw new RuntimeException("Nao pode ser 0");
+    public static void criarNovoarquivo() throws IOException {
+        File file = new File("arquivo\\ test.txt");
+        try {
+            boolean isCriado = file.createNewFile();
+            System.out.println("Arquivo criado" + isCriado);
+        }catch (IOException e) {
+            e.printStackTrace();
+            throw e;
         }
-        return a/b;
     }
 }
